@@ -28,7 +28,7 @@ class Database {
       'mongodb://localhost:27017/barber',
       {
         useNewUrlParser: true,
-        useFindAndModify: true,
+        useFindAndModify: false,
         useUnifiedTopology: true,
       }
     );
