@@ -4,3 +4,4 @@ yarn-error.log
 *.jpeg
 *.png
 .env
+readme_guide.md
